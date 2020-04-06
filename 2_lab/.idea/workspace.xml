@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22a6b62f-6141-4d6e-8391-7aa97956ceb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="22a6b62f-6141-4d6e-8391-7aa97956ceb3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,26 +15,7 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="C:\Users\m9co\Documents\GitHub\MatStat_labs\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1ZBERmLM8odYoB5RTYs3MP2GlYW" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Optimizaton-Methods" />
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -49,8 +28,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MatStat_1_lab">
-    <configuration name="MatStat_1_lab (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2_Lab_2_var">
+    <configuration name="2_Lab_2_var" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MatStat_1lab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +37,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_lab/MatStat_1_lab.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_Lab_2_var.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MatStat_1_lab (1)" />
+        <item itemvalue="Python.2_Lab_2_var" />
         <item itemvalue="Python.MatStat_1_lab" />
       </list>
     </recent_temporary>
@@ -110,55 +89,6 @@
       <option name="presentableId" value="Default" />
       <updated>1584304080706</updated>
     </task>
-    <task id="LOCAL-00001" summary="Done 1 lab, all good">
-      <created>1584465089622</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1584465089622</updated>
-    </task>
-    <task id="LOCAL-00002" summary="CHange path">
-      <created>1584465281261</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1584465281261</updated>
-    </task>
-    <task id="LOCAL-00003" summary="CHange path2">
-      <created>1584465393031</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1584465393031</updated>
-    </task>
-    <task id="LOCAL-00004" summary="CHange path4">
-      <created>1584465822761</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1584465822761</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Done 1 lab, all good" />
-    <MESSAGE value="CHange path" />
-    <MESSAGE value="CHange path2" />
-    <MESSAGE value="CHange path4" />
-    <option name="LAST_COMMIT_MESSAGE" value="CHange path4" />
   </component>
 </project>

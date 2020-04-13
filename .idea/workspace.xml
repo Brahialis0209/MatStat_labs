@@ -138,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584465822761</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add 3 lab">
+      <created>1586702715531</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586702715531</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +166,7 @@
     <MESSAGE value="CHange path" />
     <MESSAGE value="CHange path2" />
     <MESSAGE value="CHange path4" />
-    <option name="LAST_COMMIT_MESSAGE" value="CHange path4" />
+    <MESSAGE value="add 3 lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 3 lab" />
   </component>
 </project>

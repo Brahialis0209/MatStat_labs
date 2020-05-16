@@ -173,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588443431228</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add 8 lab">
+      <created>1588830488860</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588830488860</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +206,7 @@
     <MESSAGE value="add 5 lab" />
     <MESSAGE value="add 6 lab" />
     <MESSAGE value="add 7 lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 7 lab" />
+    <MESSAGE value="add 8 lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 8 lab" />
   </component>
 </project>
